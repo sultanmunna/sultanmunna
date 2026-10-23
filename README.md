@@ -43,10 +43,6 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://facebook.com/sultanmahmud.munna.12">
-  <img src="https://skillicons.dev/icons?i=facebook&theme=dark" />
-</a>
-&nbsp;&nbsp;
 <a href="https://linkedin.com/in/munnaa">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
